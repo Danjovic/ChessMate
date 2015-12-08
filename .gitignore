@@ -77,3 +77,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+#Eagle temp files
+*.b#*
+*.s#*
+*.l#*
