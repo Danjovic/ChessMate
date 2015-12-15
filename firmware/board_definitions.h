@@ -1,5 +1,5 @@
 
-// Buttons
+// Display pins
 #define BT_1A_PORT  PORTC  // Segment E
 #define BT_1A_DDR   DDRC 
 #define BT_1A_PIN   PINC
@@ -50,7 +50,7 @@
 #define BT_ENT_PIN   PIND
 #define BT_ENT_BIT   6  
 
-
+// Buttons
 #define BT_1A_PRESS (BT_1A_PIN & (1<<BT_1A_BIT) == 0)
 #define BT_2B_PRESS (BT_2B_PIN & (1<<BT_2B_BIT) == 0)
 #define BT_3C_PRESS (BT_3C_PIN & (1<<BT_3C_BIT) == 0)
@@ -63,6 +63,9 @@
 
 #define BT_CLR_PRESS (BT_CLR_PIN & (1<<BT_CLR_BIT) == 0)
 #define BT_ENT_PRESS (BT_ENT_PIN & (1<<BT_ENT_BIT) == 0)
+
+#define KB_CONTROL_BIT 2
+#define KB_JOGADA_BIT  3
 
 
 

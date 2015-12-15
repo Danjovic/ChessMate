@@ -40,6 +40,7 @@
 #define _X    0xd3  //  1101 0011
 #define _Y    0xe3  //  1110 0011
 #define _Z    0xf8  //  1111 1000
+#define _SPC  0x00  //  0000 0000  Space
                                  
 
 
