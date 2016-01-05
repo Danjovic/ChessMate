@@ -11,7 +11,7 @@ for the last 15 boards - 32 bytes per board so the history boards occupies 480 b
 
 Processing Speed:
 For instance, the 32-bit test version of Rybka on AMD 64-bit CPU running on 2.4Ghz achieves 104 Knps (thousands of nodes 
-per second) (refer to [C.C.R.]).
+per second); refer to [C.C.R.].
 
 
 The ATmega328P ChessMate at 25 MHz approach, can reach ~1.3 Knps (1298.1 nodes/s).
