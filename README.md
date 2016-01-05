@@ -5,7 +5,7 @@ The hash table was removed by [Andre Adrian]
 
 
 Features included:
-- Included Threefold repetition rule using Compact Chess Representation of history boards [C.C.R.], we made it valid 
+- Included Threefold repetition rule using Compact Chess Representation of history boards ([C.C.R.]), we made it valid 
 for the last 15 boards - 32 bytes per board so the history boards occupies 480 bytes of RAM.
 - Included the Fifty-move rule check from [fairy-Max].
 
