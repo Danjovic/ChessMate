@@ -23,3 +23,5 @@ A node refers to a branch of play the computer investigated.
 - [2] http://chessprogramming.wikispaces.com/Andre+Adrian
 - [3] Vladan VUCKOVIC, "AN ALTERNATIVE EFFICIENT CHESSBOARD REPRESENTATION BASED ON 4-BIT PIECE CODING"
 - [4] Fairy-Max: an AI for playing user-defined Chess variants (http://home.hccnet.nl/h.g.muller/CVfairy.html)
+
+Soon we will post the first working release :)
