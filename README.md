@@ -19,7 +19,7 @@ The ATmega328P ChessMate at 25 MHz approach, can reach ~1.3 Knps (1298.1 nodes/s
 
 A node refers to a branch of play the computer investigated. 
 
-[1] - Micro-Max, a 133-line Chess Source http://home.hccnet.nl/h.g.muller/max-src2.html
-[2] - http://chessprogramming.wikispaces.com/Andre+Adrian
-[3] - Vladan VUCKOVIC, "AN ALTERNATIVE EFFICIENT CHESSBOARD REPRESENTATION BASED ON 4-BIT PIECE CODING"
-[4] - Fairy-Max: an AI for playing user-defined Chess variants (http://home.hccnet.nl/h.g.muller/CVfairy.html)
+- [1] Micro-Max, a 133-line Chess Source http://home.hccnet.nl/h.g.muller/max-src2.html
+- [2] http://chessprogramming.wikispaces.com/Andre+Adrian
+- [3] Vladan VUCKOVIC, "AN ALTERNATIVE EFFICIENT CHESSBOARD REPRESENTATION BASED ON 4-BIT PIECE CODING"
+- [4] Fairy-Max: an AI for playing user-defined Chess variants (http://home.hccnet.nl/h.g.muller/CVfairy.html)
