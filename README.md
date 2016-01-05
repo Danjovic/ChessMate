@@ -1,7 +1,7 @@
 # ChessMate
 
 The ChessMate is an AVR ATmega328P running at 25 MHz with chess Engine based on recursive negamax search micro-Max 4.8 by [H.G. Muller]
-The hash table was removed by [Andre Adrian]
+The hash table was removed by [Andre Adrian].
 
 
 Features included:
