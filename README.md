@@ -23,7 +23,8 @@ A node refers to a branch of play the computer investigated.
 [C.C.R.]: <http://www.doiserbia.nb.rs/img/doi/0354-0243/2012/0354-02431200011V.pdf>
 [fairy-Max]: <http://home.hccnet.nl/h.g.muller/CVfairy.html>
 
-```sh
-Soon we will post the first working release :)
-```
+>
+>Soon we will post the first working release :)
+>
+
 
