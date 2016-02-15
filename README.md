@@ -23,8 +23,15 @@ A node refers to a branch of play the computer investigated.
 [C.C.R.]: <http://www.doiserbia.nb.rs/img/doi/0354-0243/2012/0354-02431200011V.pdf>
 [fairy-Max]: <http://home.hccnet.nl/h.g.muller/CVfairy.html>
 
->
->Soon we will post the first working release :)
->
 
+> First release at 15-Feb-2016
+
+How to play:
+Initially, it should appear "PLAY" at the display
+- Press and hold "NEW" + the number of level
+- Enter your 4 digit move then press "ENTER"
+- Wait for lily thinking (it will be displayed blinking dots)
+- The lily move will be displayed just after the thinking
+- If you entered an erroneous digit; press "CLR", short press, to delete one digit
+- If you want to delete all digits entered, press and hold "CLR"
 
