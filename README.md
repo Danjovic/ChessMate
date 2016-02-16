@@ -22,7 +22,7 @@ A node refers to a branch of play the computer investigated.
 [Andre Adrian]: <http://chessprogramming.wikispaces.com/Andre+Adrian>
 [C.C.R.]: <http://www.doiserbia.nb.rs/img/doi/0354-0243/2012/0354-02431200011V.pdf>
 [fairy-Max]: <http://home.hccnet.nl/h.g.muller/CVfairy.html>
-
+[Demo Video]: <https://youtu.be/5uhqcVmfm20>
 
 > First release at 15-Feb-2016
 
@@ -35,3 +35,4 @@ Initially, it should appear "PLAY" at the display
 - If you entered an erroneous digit; press "CLR", short press, to delete one digit
 - If you want to delete all digits entered, press and hold "CLR"
 
+See the Demo Video
