@@ -35,4 +35,4 @@ Initially, it should appear "PLAY" at the display
 - If you entered an erroneous digit; press "CLR", short press, to delete one digit
 - If you want to delete all digits entered, press and hold "CLR"
 
-See the Demo Video
+See the [Demo Video]
