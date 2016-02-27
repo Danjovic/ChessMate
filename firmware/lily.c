@@ -2,8 +2,8 @@
  * lily.c
  *
   * Created: 27/10/2015 18:13:57
-  *  Authors:  - Reinaldo de Sales Flamino 
-  *            - Daniel Jose Viana
+  *  Authors:  - Reinaldo de Sales Flamino - reinaldosflamino@gmail.com
+  *            - Daniel Jose Viana - danjovic@hotmail.com
   *
   *  - Threefold repetition rule using Compact Chess Representation of history boards (valid for last 15 boards); 
   *     based on paper: "AN ALTERNATIVE EFFICIENT CHESSBOARD REPRESENTATION BASED ON 4-BIT PIECE CODING".
