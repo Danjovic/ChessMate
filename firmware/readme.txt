@@ -1,1 +1,2 @@
-turn off all optimization 
+Release notes:
+> Disable all optimization before compiling.
