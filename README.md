@@ -4,7 +4,7 @@ The ChessMate is an AVR ATmega328P running at 25 MHz with chess Engine based on 
 The hash table was removed by [Andre Adrian].
 
 
->Our contribution are the following features:
+Our contribution are the following features:
 - Included [Threefold repetition rule] using Compact Chess Representation of history boards ([C.C.R.]), we made it valid 
 for the last 15 boards with 32 bytes per board; so the history boards occupies 480 bytes of RAM.
 - Included the [Fifty-move rule] check from [fairy-Max].
@@ -12,7 +12,6 @@ for the last 15 boards with 32 bytes per board; so the history boards occupies 4
 Processing Speed:
 For instance, the 32-bit test version of Rybka on AMD 64-bit CPU running on 2.4Ghz achieves 104 Knps (thousands of nodes 
 per second); refer to [C.C.R.].
-
 
 The ATmega328P ChessMate at 25 MHz approach, can reach ~1.3 Knps (1298.1 nodes/s).
 
