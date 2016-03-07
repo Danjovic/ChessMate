@@ -24,6 +24,8 @@ A node refers to a branch of play the computer investigated.
 [fairy-Max]: <http://home.hccnet.nl/h.g.muller/CVfairy.html>
 [Demo Video]: <https://youtu.be/5uhqcVmfm20>
 [Hackaday Entry]: <https://hackaday.io/project/8705-chess-mate>
+[Threefold repetition rule]: <https://en.wikipedia.org/wiki/Threefold_repetition>
+[Fifty-move rule]: <https://en.wikipedia.org/wiki/Fifty-move_rule>
 
 > First release at 15-Feb-2016
 
