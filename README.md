@@ -4,7 +4,7 @@ The ChessMate is an AVR ATmega328P running at 25 MHz with chess Engine based on 
 The hash table was removed by [Andre Adrian].
 
 
-Features included:
+Our contribution are the following features:
 - Included [Threefold repetition rule] using Compact Chess Representation of history boards ([C.C.R.]), we made it valid 
 for the last 15 boards with 32 bytes per board; so the history boards occupies 480 bytes of RAM.
 - Included the [Fifty-move rule] check from [fairy-Max].
