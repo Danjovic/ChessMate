@@ -18,7 +18,7 @@ The ATmega328P ChessMate at 25 MHz approach, can reach ~1.3 Knps (1298.1 nodes/s
 A node refers to a branch of play the computer investigated. 
 
 [H.G. Muller]: <http://home.hccnet.nl/h.g.muller/max-src2.html>
-[Andre Adrian]: <http://chessprogramming.wikispaces.com/Andre+Adrian>
+[Andre Adrian]: <https://www.elektormagazine.com/magazine/elektor-200911/19210>
 [C.C.R.]: <http://www.doiserbia.nb.rs/img/doi/0354-0243/2012/0354-02431200011V.pdf>
 [fairy-Max]: <http://home.hccnet.nl/h.g.muller/CVfairy.html>
 [Demo Video]: <https://youtu.be/5uhqcVmfm20>
